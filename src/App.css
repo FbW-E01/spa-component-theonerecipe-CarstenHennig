@@ -1,23 +1,46 @@
+body {
+  margin: 0;
+  padding: 20px;
+  border: 1px solid gray;
+  background-color: darkmagenta;
+}
+
 .heading {
   color: blue;
   border: 1px solid blue;
-  margin: 0;
+  margin: 5px;
   padding: 5px;
   text-align: center;
+  background-color: khaki;
 }
 
 .ingredients {
   color: black;
   border: 1px solid black;
-  margin: 0;
-  padding: auto;
+  margin: 5px;
+  padding: 5px;
   text-align: center;
+  background-color: khaki;
+}
+
+ul {
+  list-style: none;
 }
 
 .steps {
   color: darkolivegreen;
   border: 1px solid darkolivegreen;
-  margin: 0;
+  margin: 5px;
   padding: 5px;
   text-align: center;
+  background-color: khaki;
+}
+
+.footer {
+  color: darkkhaki;
+  border: 1px solid darkkhaki;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+  background-color: khaki;
 }

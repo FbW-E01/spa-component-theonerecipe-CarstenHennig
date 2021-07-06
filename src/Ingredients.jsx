@@ -4,7 +4,7 @@ function Ingredients() {
     return (
         <div className="ingredients">
             <h2>African Stew</h2>
-            <h6>Ingredients for 3 guests</h6>
+            <h4>Ingredients for 3 guests</h4>
         <ul>
         <li>6 tomatoes</li>
         <li>1 can kidney beans</li>
